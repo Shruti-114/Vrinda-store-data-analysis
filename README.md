@@ -24,7 +24,7 @@ The goal is to derive meaningful business insights and create an interactive das
 ---
 
 ## 📈 Dashboard Preview
-![Dashboard](https://github.com/Shruti-114/Vrinda-store-data-analysis/blob/main/data/images/img.png)
+![Dashboard](data/images/img.png)
 
 ---
 

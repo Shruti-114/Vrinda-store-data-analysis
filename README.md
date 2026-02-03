@@ -39,16 +39,9 @@ The goal is to derive meaningful business insights and create an interactive das
 ## 📂 Project Files
 - 📄 Excel File: `Vrinda Store Data Analysis.xlsx`
 - 📁 Images: `images/`
-- 📁 Raw Data: `data/`
 
 ---
 
 ## ✅ Conclusion
 This Excel dashboard helps stakeholders quickly understand sales trends
 and make data-driven business decisions.
-
----
-
-## 👩‍💻 Author
-**Shruti Panigrahi**  
-Aspiring Data Analyst  

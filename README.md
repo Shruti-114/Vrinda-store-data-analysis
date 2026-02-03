@@ -23,6 +23,11 @@ The goal is to derive meaningful business insights and create an interactive das
 
 ---
 
+## 📈 Dashboard Preview
+![Dashboard](images/img.png)
+
+---
+
 ## 📊 Analysis & Insights
 - Women customers contribute more than men
 - Highest sales from Maharashtra, Karnataka, and Uttar Pradesh

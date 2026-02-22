@@ -24,7 +24,8 @@ The goal is to derive meaningful business insights and create an interactive das
 ---
 
 ## 📈 Dashboard Preview
-**<img width="1044" height="541" alt="image" src="https://github.com/user-attachments/assets/e4ca0328-65c5-44ad-8f1e-aac8a85ae291" />
+<img width="1053" height="548" alt="image" src="https://github.com/user-attachments/assets/82de2dcd-13db-4a32-abfc-9b02ef4a1950" />
+
 **
 
 ---
